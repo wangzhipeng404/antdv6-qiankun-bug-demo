@@ -1,5 +1,5 @@
 {
-  "name": "ant-design-pro",
+  "name": "slave",
   "version": "6.0.2",
   "private": true,
   "description": "An out-of-box UI solution for enterprise applications",
@@ -70,7 +70,7 @@
     "@types/topojson-client": "^3.1.5",
     "@types/topojson-specification": "^1.0.5",
     "@umijs/lint": "^4.6.51",
-    "@umijs/max": "^4.6.67",
+    "@umijs/max": "^4.7.16",
     "@umijs/max-plugin-openapi": "^2.0.3",
     "@umijs/request-record": "^1.1.4",
     "@vitest/coverage-v8": "4.1.8",
